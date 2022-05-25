@@ -159,6 +159,9 @@ header{
               width: calc(50% - 1rem );
               flex : unset;
             }
+            @include sm-and-down{
+              width: 100%;
+            }
             .icon{
                 width: 2.75rem;
                 margin-bottom: 2.75rem;
