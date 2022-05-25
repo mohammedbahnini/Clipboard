@@ -1,0 +1,12 @@
+-- container max width 1115px
+-- not all the sections contain a container element
+-- btn element
+-- text center 
+-- display flex
+--center with margin
+-- sections have header ( title + text )
+-- headings have 3 lvls
+-- headings have one color
+-- paragraphs have 3 lvls
+-- paragraphs have one color
+-- images inside section must have width with %
